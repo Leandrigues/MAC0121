@@ -1,0 +1,149 @@
+5 4
+-1 0 0 0
+0 0 0 0
+0 0 -1 0
+0 0 0 0
+0 -1 0 0
+10
+ad
+antas
+carn
+casa
+do
+lado
+lua
+os
+soda
+ur
+3 3
+-1 0 0
+0 0 0
+0 -1 0
+5
+ab
+au
+bug
+la
+lua
+4 4
+-1 0 0 0
+0 0 0 0
+0 0 0 0
+0 -1 0 0
+8
+aug
+adol
+ncdj
+ec
+and
+adc
+uode
+gljc
+3 4
+0 0 0 -1
+0 0 0 -1
+0 -1 0 0
+6
+aej
+ioz
+yq
+aip
+eo
+jzy
+3 3
+0 0 0
+0 0 0
+0 0 0
+6
+aug
+dou
+clo
+adc
+uol
+guo
+3 3
+0 0 0
+0 0 0
+0 0 0
+6
+dou
+clo
+adc
+uol
+guo
+augo
+6 6
+-1 0 0 0 0 -1
+-1 -1 0 0 0 0
+0 0 0 0 -1 0
+0 0 0 -1 0 0
+0 0 -1 0 0 -1
+0 -1 0 0 0 0
+16
+rabo
+bile
+vira
+ida
+br
+no
+ro
+piar
+vini
+ido
+abra
+bia
+ri
+ol
+boa
+ebr
+5 5
+0 0 0 0 0
+-1 0 -1 0 0
+0 0 0 0 -1
+0 0 -1 0 0
+0 0 0 0 -1
+10
+grato
+re
+agua
+ri
+tf
+isto
+ari
+regis
+trato
+oe
+11 11
+0 0 0 0 0 0 0 -1 -1 0 -1
+0 -1 0 -1 0 -1 0 0 0 0 0
+0 0 0 0 0 -1 0 -1 -1 0 -1
+0 -1 0 -1 0 0 0 0 0 0 0
+0 -1 0 -1 0 -1 -1 -1 0 -1 -1
+0 0 0 0 0 -1 0 0 0 0 0
+-1 -1 0 -1 -1 -1 0 -1 0 -1 0
+0 0 0 0 0 0 0 -1 0 -1 0
+-1 0 -1 -1 0 -1 0 0 0 0 0
+0 0 0 0 0 -1 0 -1 0 -1 0
+-1 0 -1 -1 0 0 0 0 0 0 0 
+20
+trair
+unias
+rabugice
+ocorrer
+abade
+ocasiao
+abrir
+seiva
+abaixar
+amarelo
+anagrama
+altura
+cabo
+xarope
+caber
+rumo
+crosta
+irra
+mate
+recado
+0 0
